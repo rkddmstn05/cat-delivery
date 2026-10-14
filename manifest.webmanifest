@@ -1,0 +1,17 @@
+{
+  "name": "고양이 골목 택배",
+  "short_name": "고양이 택배",
+  "description": "고양이 배달부가 골목의 모든 칸을 지나 마지막 집까지 택배를 전하는 한붓그리기 퍼즐",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#6EC1F2",
+  "theme_color": "#6EC1F2",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
