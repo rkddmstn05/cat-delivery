@@ -1,6 +1,6 @@
 // 오프라인 실행용: 게임 파일은 설치 때 저장하고, 글꼴은 처음 불러올 때 저장해 둡니다.
 // 게임을 고친 뒤 다시 올릴 때는 아래 버전 숫자를 하나 올려 주세요.
-const VERSION = 'cat-delivery-v1';
+const VERSION = 'cat-delivery-v11';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
